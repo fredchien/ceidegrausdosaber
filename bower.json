@@ -1,0 +1,17 @@
+{
+  "name": "ceidegrausdosaber",
+  "description": "Centro Educacional Infantil Degraus do Saber",
+  "main": "index.html",
+  "authors": [
+    "Frederic Chien"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/fredchien/ceidegrausdosaber",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
